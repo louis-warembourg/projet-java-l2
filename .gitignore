@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!junit-console.jar
 *.war
 *.nar
 *.ear
